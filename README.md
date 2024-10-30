@@ -1,5 +1,3 @@
-# README.md
-
 ## Description
 
 This project focuses on practicing the use of the **Pandas** library for data analysis and manipulation in Python. Pandas is a powerful library that provides high-level data structures and tools for working with tabular data, widely used in data analysis, statistics, and scientific research.
